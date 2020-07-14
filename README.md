@@ -1,6 +1,3 @@
-write-Android [![Buildkite](https://badge.buildkite.com/5ae4f24dd485562a5b59a9f84d866e5eed3d100223423757f2.svg?branch=develop)](https://buildkite.com/matrix-dot-org/write-android) [![Weblate](https://translate.write.im/widgets/write-android/-/svg-badge.svg)](https://translate.write.im/engage/write-android/?utm_source=widget) [![Android Matrix room #write-android:matrix.org](https://img.shields.io/matrix/write-android:matrix.org.svg?label=%23write-android:matrix.org&logo=matrix&server_fqdn=matrix.org)](https://matrix.to/#/#write-android:matrix.org) [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=vector.android.write&metric=alert_status)](https://sonarcloud.io/dashboard?id=vector.android.write) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=vector.android.write&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=vector.android.write) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=vector.android.write&metric=bugs)](https://sonarcloud.io/dashboard?id=vector.android.write)
-============
-
 Important Announcement
 ======================
 
